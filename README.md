@@ -1,2 +1,2 @@
-# FinanceApp
-Turning my 8 year excel budget sheets into an app
+# Finance Application
+Turning excel budget sheets into an application
